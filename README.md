@@ -1,2 +1,2 @@
 # First-Project
-me and my first make my first project on html using css.
+Me and my friend make my first project on html using css.
